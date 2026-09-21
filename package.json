@@ -1,8 +1,8 @@
 {
-  "name": "javascript-webpack-template",
+  "name": "hashmap",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "main.js",
   "scripts": {
     "test": "jest",
     "build": "webpack --config webpack.config.js --env production",
@@ -14,16 +14,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AliFarooq08/javascript-webpack-template.git"
+    "url": "git+https://github.com/AliFarooq08/hashmap.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "type": "module",
   "bugs": {
-    "url": "https://github.com/AliFarooq08/javascript-webpack-template/issues"
+    "url": "https://github.com/AliFarooq08/hashmap/issues"
   },
-  "homepage": "https://github.com/AliFarooq08/javascript-webpack-template#readme",
+  "homepage": "https://github.com/AliFarooq08/hashmap#readme",
   "devDependencies": {
     "@babel/core": "^7.29.7",
     "@babel/preset-env": "^7.29.7",
@@ -39,7 +39,7 @@
     "prettier": "3.9.6",
     "style-loader": "^4.0.0",
     "webpack": "^5.110.3",
-    "webpack-cli": "^7.2.2",
+    "webpack-cli": "^7.2.3",
     "webpack-dev-server": "^6.0.0",
     "webpack-merge": "^6.0.1"
   },
